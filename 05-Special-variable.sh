@@ -8,3 +8,5 @@ a=100
 b=200
 
 echo "CLI Variables used are $*"
+
+echo "Hai"
