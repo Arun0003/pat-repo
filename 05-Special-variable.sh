@@ -6,3 +6,5 @@ echo "The value of X is $1"
 
 a=100
 b=200
+
+echo "CLI Variables used are $*"
