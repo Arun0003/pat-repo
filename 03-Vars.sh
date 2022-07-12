@@ -10,3 +10,5 @@ echo $b
 echo ${b}
 
 echo "The value of c is $c"
+
+echo Value of d is $d
