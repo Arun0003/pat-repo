@@ -1,3 +1,3 @@
 #!bin/bash
-read -p 'Enter your name' Name
+read -p 'Enter your name  :  ' Name
 echo -e "Name = $Name"
